@@ -1,0 +1,17 @@
+# 更多配置查看官方文档：https://redefine-docs.ohevan.com/
+info:
+  title: Axin的博客
+  author: aaaaxin 
+  url: https://aaaaaaaaxin.github.io
+defaults:
+  avatar: /images/head.jpg
+  favicon: /images/favicon.ico
+home_banner:
+  title: AAAXIN
+  subtitle:
+    text: ["Hello World!", "Across the Great Wall we can reach every corner in the world"]
+    typing_speed: 50
+  image:
+    light: /images/bg.jpg
+footer:
+  start: 2022/4/19 20:56:00
